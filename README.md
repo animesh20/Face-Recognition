@@ -5,6 +5,6 @@ Face landmark detection was done using dlib and OpenCV was used for preprocessin
 
 The eigenface code has also been included here.
 
-The dataset is stored in "demo" folder. The code used for different experiments is there in openface/evaluation. Also much of the code used here is taken from the OpenFace project. Reference: B. Amos, B. Ludwiczuk, M. Satyanarayanan, "Openface: A general-purpose face recognition library with mobile applications," CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016.
+The code used for different experiments is there in openface/evaluation. Also much of the code used here is taken from the OpenFace project. Reference: B. Amos, B. Ludwiczuk, M. Satyanarayanan, "Openface: A general-purpose face recognition library with mobile applications," CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016.
 
 The report for the project has been included here. Please go through it.
